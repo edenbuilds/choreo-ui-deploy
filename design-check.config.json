@@ -1,0 +1,1 @@
+{ "root": "src", "ignoreDirectories": ["node_modules", ".next"] }
